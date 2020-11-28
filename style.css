@@ -1,4 +1,4 @@
-h4{
+h1{
 
 
 /*font-family: acumin-pro-semi-condensed, sans-serif;*/
@@ -6,6 +6,7 @@ h4{
 font-weight: 900;
 
 font-style: normal
+
 }
 
 p{
@@ -13,16 +14,11 @@ p{
 	font-style: normal
 }
 
+
 html{
-	background: black
+	background-color: #231f20;
 }
 
 .landing_image{
-	  display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
-  display: -ms-flexbox;  /* TWEENER - IE 10 */
-  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
-  display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
 
-  justify-content: center;
-  align-items: center;
 }
